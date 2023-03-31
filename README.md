@@ -2,9 +2,9 @@
 
 Open-source Single Photon Detector based on faint-laser technology. Works by generating short pulses that feed a 405nm laser diode, which is attenuated afterwards in order to obtain the desired Poissonian distribution at the final output of the device.
 
-![board](https://github.com/pepassaco/OpenSPD/blob/main/images/board.png)
+![board](https://github.com/pepassaco/OpenSPS/blob/main/images/board.png)
 
-![spice simulation](https://github.com/pepassaco/OpenSPD/blob/main/images/spice.png)
+![spice simulation](https://github.com/pepassaco/OpenSPS/blob/main/images/spice.png)
 
 ## IMPORTANT
 
