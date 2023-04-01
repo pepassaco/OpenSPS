@@ -8,21 +8,21 @@ WARNING: Less than two connections to node u5:b:219.  This node is used by e:u5:
 WARNING: Less than two connections to node u5:b:220.  This node is used by r:u5:b:1.
 Direct Newton iteration for .op point succeeded.
 
-Date: Sat Apr  1 01:48:31 2023
-Total elapsed time: 4.321 seconds.
+Date: Sat Apr  1 01:58:02 2023
+Total elapsed time: 0.649 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 51313
-traniter = 51285
-tranpoints = 25266
-accept = 25192
-rejected = 74
+totiter = 7826
+traniter = 7798
+tranpoints = 3120
+accept = 2887
+rejected = 233
 matrix size = 408
-fillins = 340
+fillins = 330
 solver = Normal
-Avg thread counts: 1.0/1.0/1.0/1.0
-Matrix Compiler1: 32.86 KB object code size  19.7/10.8/[5.0]
-Matrix Compiler2: 35.52 KB object code size  9.1/11.3/[4.4]
+Avg thread counts: 1.0/1.1/1.1/1.0
+Matrix Compiler1: 32.48 KB object code size  17.7/13.8/[3.1]
+Matrix Compiler2: 35.34 KB object code size  11.3/12.4/[4.0]
 
