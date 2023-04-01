@@ -22,3 +22,5 @@ Applying an XOR gate to these signals generates a short pulse just during the ti
 # Optics
 
 In order to calculate the attenuation needed for our single photon source, we should apply the following calculations:
+
+TODO: include them :)
